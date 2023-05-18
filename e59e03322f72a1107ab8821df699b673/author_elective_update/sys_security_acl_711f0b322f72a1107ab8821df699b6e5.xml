@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_791531_it_task_0_it_tasks</description>
+        <name>x_791531_it_task_0_it_tasks</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-18 09:06:07</sys_created_on>
+        <sys_id>711f0b322f72a1107ab8821df699b6e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_791531_it_task_0_it_tasks</sys_name>
+        <sys_package display_value="IT Task Management" source="x_791531_it_task_0">e59e03322f72a1107ab8821df699b673</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Task Management">e59e03322f72a1107ab8821df699b673</sys_scope>
+        <sys_update_name>sys_security_acl_711f0b322f72a1107ab8821df699b6e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-18 09:06:07</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Task Management">e59e03322f72a1107ab8821df699b673</application>
+        <file_path/>
+        <instance_id>9ee83719dbdef340f492c597059619e2</instance_id>
+        <instance_name>dev88733</instance_name>
+        <name>sys_security_acl_711f0b322f72a1107ab8821df699b6e5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_791531_it_task_0_it_tasks</description><name>x_791531_it_task_0_it_tasks</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-18 09:06:07</sys_created_on><sys_id>711f0b322f72a1107ab8821df699b6e5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_791531_it_task_0_it_tasks</sys_name><sys_package display_value="IT Task Management" source="x_791531_it_task_0">e59e03322f72a1107ab8821df699b673</sys_package><sys_policy/><sys_scope display_value="IT Task Management">e59e03322f72a1107ab8821df699b673</sys_scope><sys_update_name>sys_security_acl_711f0b322f72a1107ab8821df699b6e5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-18 09:06:07</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-692040741</payload_hash>
+        <record_name>x_791531_it_task_0_it_tasks</record_name>
+        <reverted_from/>
+        <source>659e03322f72a1107ab8821df699b675</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-18 09:06:08</sys_created_on>
+        <sys_id>b11f0b322f72a1107ab8821df699b6e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1882e1c041d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-18 09:06:08</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>f91f0b320972a1109bc2080091512ee6</update_guid>
+        <update_guid_history>f91f0b320972a1109bc2080091512ee6:-692040741</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-18 09:09:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>a1143444bdb6435cb176d6095ac18924</sys_id>
+        <sys_metadata>711f0b322f72a1107ab8821df699b6e5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_791531_it_task_0_it_tasks</sys_name>
+        <sys_package display_value="IT Task Management" source="x_791531_it_task_0">e59e03322f72a1107ab8821df699b673</sys_package>
+        <sys_parent display_value="">311f0b322f72a1107ab8821df699b6ea</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="IT Task Management">e59e03322f72a1107ab8821df699b673</sys_scope>
+        <sys_scope_delete display_value="">bc09326459b341799793ab68d1041639</sys_scope_delete>
+        <sys_update_name>sys_security_acl_711f0b322f72a1107ab8821df699b6e5</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_711f0b322f72a1107ab8821df699b6e5">b11f0b322f72a1107ab8821df699b6e7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-18 09:09:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
